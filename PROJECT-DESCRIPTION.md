@@ -1,0 +1,1 @@
+FluidScale is a JS-runtime fluid interpolation engine for CSS. You set the hard value for each breakpoint using old-school media queries, and the engine automatically interpolates them. 100% accurate calculation compared to clamp, and easier to reason about.
