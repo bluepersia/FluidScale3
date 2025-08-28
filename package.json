@@ -1,0 +1,15 @@
+{
+  "name": "fluid-scale",
+  "version": "0.2.0",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Zimmermann",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.34.0",
+    "typescript": "^5.9.2"
+  }
+}
