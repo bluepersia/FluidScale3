@@ -1,0 +1,15 @@
+.block-1 {
+  font-size: 1em;
+}
+
+@media (min-width: 768px) {
+  .block-1 {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 1024px) {
+  .block-1 {
+    font-size: 4em;
+  }
+}

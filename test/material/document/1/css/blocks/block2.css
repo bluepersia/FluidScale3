@@ -1,0 +1,11 @@
+@media (min-width: 768px) {
+  .block-2 {
+    font-size: 2em;
+  }
+}
+
+@media (min-width: 1024px) {
+  .block-2 {
+    font-size: 4em;
+  }
+}
